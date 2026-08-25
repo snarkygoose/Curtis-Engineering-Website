@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- CONFIRM WITH CLIENT: replace curtisengineering.co.za with the final live domain before publishing -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.curtisengineering.co.za/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://www.curtisengineering.co.za/about.html</loc><priority>0.8</priority></url>
+  <url><loc>https://www.curtisengineering.co.za/services.html</loc><priority>0.9</priority></url>
+  <url><loc>https://www.curtisengineering.co.za/gallery.html</loc><priority>0.6</priority></url>
+  <url><loc>https://www.curtisengineering.co.za/clients.html</loc><priority>0.6</priority></url>
+  <url><loc>https://www.curtisengineering.co.za/contact.html</loc><priority>0.9</priority></url>
+</urlset>
